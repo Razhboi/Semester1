@@ -1,0 +1,8 @@
+print("\033[1mUNIVERSITAS TIDAR\033[0m" )
+print("Universitas Tidar merupakan Perguruan Tinggi Pemerintah atau Perguruan Tinggi Negeri yang telah ditetapkan berdasarkan Peraturan Presiden Repuplik Indonesia Nomor 23 Tahun 2014 pada tanggal 1 April 2014")
+print("")
+print("\033[1mJURUSAN TEKNIK ELEKTRO\033[0m")
+print("Jurussn Teknik Elektro terdiri atas tiga program studi,antara lain: ")
+print("1. S1 Teknik Elektro \x1B[3m" " (Bachelor of Electrical Engineering)" "\x1B[0m")
+print("2. S1 Teknologi Informasi \x1B[3m" + "(Bachelor of Information Technology)"+"\x1B[0m")
+print("3. S1 Teknik Mekatronika \x1B[3m" + "(Bachelor of Mechatronics Engineering)"+"\x1B[0m")

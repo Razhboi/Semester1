@@ -1,0 +1,11 @@
+Nama		: Noufal Aji Prasetyo	
+
+Program Studi	: Teknologi Informasi
+
+NPM		: 2340506059  
+
+Alamat		: Drojogan,Bumirejo,Rt05/Rw03,Mungkid,Magelang
+
+Hobi		: Ngoding
+
+Email		: noufalaji4@gmail.com
