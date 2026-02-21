@@ -1,0 +1,21 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #96d3e0;
+
+}
+
+#About-Team {
+    background-color: #96d3e0 ;
+}
+#Projects {
+    background-color: #96d3e0;
+}
+
+footer {
+    background-color: #66a5ad;
+    color: white;
+}
+
+section {
+    padding-top: 5rem;
+}
